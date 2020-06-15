@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "DO101-apps",
+			"path": "..\\fork_redhatDO101\\DO101-apps"
+		}
+	]
+}
